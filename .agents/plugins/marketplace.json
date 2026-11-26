@@ -1,0 +1,15 @@
+{
+  "name": "chatgpt-skills",
+  "interface": {
+    "displayName": "Mes skills ChatGPT"
+  },
+  "plugins": [
+    {
+      "name": "mes-skills",
+      "source": {
+        "source": "local",
+        "path": "./plugins/mes-skills"
+      }
+    }
+  ]
+}

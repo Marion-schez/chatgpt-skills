@@ -1,0 +1,9 @@
+{
+  "name": "mes-skills",
+  "version": "0.1.0",
+  "description": "Collection de skills personnels pour ChatGPT et Codex.",
+  "author": {
+    "name": "Marion Sanchez"
+  },
+  "skills": "./skills/"
+}
